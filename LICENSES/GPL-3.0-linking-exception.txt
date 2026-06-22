@@ -1,5 +1,4 @@
-If you modify this Program, or any covered work, by linking or combining it with 
-Minecraft and its dependencies (or a modified version of that library), containing
-parts covered by the terms of the Minecraft EULA and its dependencies' licenses,
-the licensors of this Program grant you additional permission to convey the resulting
-work. 
+If you modify this Program, or any covered work, by linking, loading or combining 
+it with Minecraft and its dependencies, containing parts covered by the terms of
+Minecraft and its dependencies' licenses, the licensors of this Program grant you
+additional permission to convey the resulting work. 
