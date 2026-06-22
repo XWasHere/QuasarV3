@@ -1,0 +1,6 @@
+Additional permission under GNU AGPL version 3 section 7
+
+If you modify this Program, or any covered work, by linking or combining it with Minecraft
+and any dependencies required by an unmodified copy of Minecraft, containing parts covered
+by the terms of Minecraft and its dependencies' licenses, the licensors of this Program
+grant you additional permission to convey the resulting work.

@@ -1,18 +1,18 @@
 # Quasar Licensing Info
 
 Quasar is licensed under two main licenses, the GNU Affero General Public License 3.0
-(or any later version) and the Creative Commons Attribution-ShareAlike 4.0 International
-license. Quasar is based off of Horizon End's Ion plugin, which at the time of writing,
-is available under the GNU General Public License 3.0. A copy of each license included in
-Quasar can be found in the `LICENSES` directory at the project root. Further licensing
-information for different parts of the codebase is available below.
+and the Creative Commons Attribution-ShareAlike 4.0 International license. Quasar is
+based off of Horizon End's Ion plugin, which at the time of writing, is available under
+the GNU General Public License 3.0. A copy of each license included in Quasar can be
+found in the `LICENSES` directory at the project root. Further licensing information
+for different parts of the codebase is available below.
 
 ## Code Licensing (`*.java`/`*.kt`/all build files/Quasar datapack)
 
-All of Quasar's code is licensed under the GNU AGPL 3.0 license (or any later version),
-with a linking exception for Minecraft that can be found in the `GPL-3.0-linking-exception.txt`
-file. By contributing code to Quasar, you agree to permanently license your code to Quasar and
-all of its players under the AGPL.
+All of Quasar's code is licensed under the GNU AGPL 3.0 license, with a linking exception
+for Minecraft that can be found in the `AGPL-3.0-linking-exception.txt` file. By contributing
+code to Quasar, you agree to permanently license your code to Quasar and all of its
+players under the AGPL.
 
 The AGPL dictates that any server running Quasar must make all of its code and any
 modifications made to its code available to all of its players. This also applies
